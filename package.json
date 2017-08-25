@@ -1,0 +1,15 @@
+{
+  "name": "mqtt-relay",
+  "version": "1.0.0",
+  "description": "Receive messages from one broker and send them to another",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "^2.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Burnicki <stefan.burnicki@iteratec.de>",
+  "license": "MIT"
+}
